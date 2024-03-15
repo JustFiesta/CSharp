@@ -1,3 +1,3 @@
-Learning C# for studies.
+# Learning C# for studies.
 
-Treat this repo as notes.
+### Treat this repo as notes.
